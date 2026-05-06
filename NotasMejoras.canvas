@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"fcb5fd2f6be93135","type":"text","text":"Organización y asignación de Tareas y ","x":-1330,"y":-1188,"width":250,"height":60},
+		{"id":"82951212de730106","type":"text","text":"Revisión de consolidado","x":-1001,"y":-1183,"width":250,"height":50},
+		{"id":"ca713c17e5ba40f2","type":"text","text":"Generar la manera de validar ","x":-1001,"y":-1069,"width":250,"height":50},
+		{"id":"b8dcdd7302ffda4a","type":"text","text":"Eliminar","x":-323,"y":-1145,"width":165,"height":50},
+		{"id":"bb80ed3b694f7776","type":"text","text":"MCP","x":-565,"y":-1120,"width":165,"height":50},
+		{"id":"1fe48df8fad81f58","type":"text","text":"Actualizar","x":-323,"y":-1049,"width":165,"height":50},
+		{"id":"cbaf50f435c8c94e","type":"text","text":"Mover","x":-323,"y":-1233,"width":165,"height":50},
+		{"id":"67f6898117545ce8","type":"text","text":"Se copia de la carpeta Cierre ejecucion de B a L y se pega en el estado del cierre del mes y eso lo mismo para la formulación","x":-2441,"y":51,"width":250,"height":158},
+		{"id":"800428894f893815","type":"text","text":"Estado de Cierre al mes de marzo 16.04.2026","x":-2786,"y":204,"width":434,"height":50,"color":"3"},
+		{"id":"d0dd32cb2bda453b","type":"text","text":"Validación Data Marco y Ejecución al mes de marzo 16.04.2026","x":-2786,"y":290,"width":604,"height":50},
+		{"id":"3a88d5bedae512a4","type":"text","text":"Base FONAFE WEB al mes de marzo 16.04.2026","x":-2786,"y":378,"width":451,"height":50},
+		{"id":"762711b99ae686a6","type":"text","text":"Validación Data Marco y Ejecución al mes de marzo 16.04.2026","x":-2786,"y":469,"width":595,"height":50},
+		{"id":"9b8c86c2bf2211ed","x":-1163,"y":-332,"width":250,"height":60,"color":"1","type":"text","text":"Modelos de automatización con julio"},
+		{"id":"5dd019596e6c6c92","x":-573,"y":-969,"width":250,"height":60,"type":"text","text":"Revisión de ortografía de informes"}
+	],
+	"edges":[
+		{"id":"25ef924229b66233","fromNode":"fcb5fd2f6be93135","fromSide":"right","toNode":"82951212de730106","toSide":"left"},
+		{"id":"f8146cb9d63ea477","fromNode":"82951212de730106","fromSide":"right","toNode":"ca713c17e5ba40f2","toSide":"right"},
+		{"id":"c50957312fcb7f96","fromNode":"bb80ed3b694f7776","fromSide":"right","toNode":"cbaf50f435c8c94e","toSide":"left","color":"3"},
+		{"id":"ee5c9352b3b47acf","fromNode":"bb80ed3b694f7776","fromSide":"right","toNode":"b8dcdd7302ffda4a","toSide":"left","color":"1"},
+		{"id":"9be484c03ccf6ed7","fromNode":"bb80ed3b694f7776","fromSide":"right","toNode":"1fe48df8fad81f58","toSide":"left"}
+	]
+}

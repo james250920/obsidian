@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "fa9baebde1d24485",
+    "type": "split",
+    "children": [
+      {
+        "id": "299a4423cd3342c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "344309ea29c97721",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Optimización.canvas",
+                "viewState": {
+                  "x": 166.62936184523633,
+                  "y": -735.8575204822973,
+                  "zoom": -1.0532699119611488
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Optimización"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b7ee8b3399107f85",
+    "type": "split",
+    "children": [
+      {
+        "id": "2917d911248dcbeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e5e821752d648bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "7a13b17de1d6de39",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "52855e1bc1d1dbfa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          },
+          {
+            "id": "a24a88b143812604",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5a0716208f1a3a93",
+    "type": "split",
+    "children": [
+      {
+        "id": "328919a47264d4fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac3f4c7e7ce624a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "//Untitled.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Untitled"
+            }
+          },
+          {
+            "id": "75e566eff72cee6b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "//Untitled.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Untitled"
+            }
+          },
+          {
+            "id": "de8ea23afeb36329",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "cd082f8da608dcc2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "8e770b98adf25278",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "//Untitled.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Untitled"
+            }
+          },
+          {
+            "id": "03cafe5b4529e15f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "1710494cbc13f7f9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "344309ea29c97721",
+  "lastOpenFiles": [
+    "Sin título.base",
+    "NotasMejoras.canvas",
+    "Optimización.canvas",
+    "Tags",
+    "//Untitled.canvas",
+    "Untitled.md",
+    "Bienvenido.md",
+    "Tags/desktop.ini",
+    "Sin título.canvas",
+    "2026-05-05.md",
+    "desktop.ini"
+  ]
+}
