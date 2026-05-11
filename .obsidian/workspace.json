@@ -15,9 +15,9 @@
               "state": {
                 "file": "Optimización.canvas",
                 "viewState": {
-                  "x": 166.62936184523633,
-                  "y": -735.8575204822973,
-                  "zoom": -1.0532699119611488
+                  "x": 10100.664960891556,
+                  "y": 9119.817295299305,
+                  "zoom": -0.9999999999999996
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -78,7 +78,7 @@
             }
           },
           {
-            "id": "a24a88b143812604",
+            "id": "0273d076e92acb29",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
