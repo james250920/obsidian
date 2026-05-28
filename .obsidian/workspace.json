@@ -15,9 +15,9 @@
               "state": {
                 "file": "Optimización.canvas",
                 "viewState": {
-                  "x": 14253.230748891541,
-                  "y": 5551.463477057755,
-                  "zoom": -0.9999999999999996
+                  "x": 12344.833778258466,
+                  "y": 11969.28047168224,
+                  "zoom": -0.6666666666666663
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -78,7 +78,7 @@
             }
           },
           {
-            "id": "5bfbc11d36090f1a",
+            "id": "0f9537186f9ee1c1",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -221,9 +221,9 @@
   },
   "active": "344309ea29c97721",
   "lastOpenFiles": [
-    "Sin título.base",
     "NotasMejoras.canvas",
     "Optimización.canvas",
+    "Sin título.base",
     "Tags",
     "//Untitled.canvas",
     "Untitled.md",
